@@ -11,5 +11,6 @@ namespace ProjetoLoja.Data
         }
 
         public DbSet<ProductSupplier> ProductSuppliers { get; set; }
+        public DbSet<Store> Stores { get; set; }
     }
 }
