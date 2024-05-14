@@ -1,5 +1,5 @@
-## Sobre o Projeto
-Esta API foi desenvolvida para o cadastro de lojas, produtos e fornecedores. Não tem objetivo de solucionar um problema da vida real. É apenas um exemplo elaborado para estudar um pouco sobre Programação Orientada a Objetos.
+## Sobre o Projeto (Ainda não finalizado)
+Esta API está sendo desenvolvida para o cadastro de lojas, produtos e fornecedores. Não tem objetivo de solucionar um problema da vida real. É apenas um exemplo elaborado para estudar um pouco sobre Programação Orientada a Objetos.
 
 ## Tecnologias Utilizadas
 - **.Net**: Plataforma de desenvolvimento de software desenvolvida pela Microsoft.
